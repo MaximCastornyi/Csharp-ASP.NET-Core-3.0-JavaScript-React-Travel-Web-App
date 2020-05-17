@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamsOrganizerWebApp", "TeamsOrganizerWebApp\TeamsOrganizerWebApp.csproj", "{DF2730F9-34C0-403F-9EF6-3F7FE048B4FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF2730F9-34C0-403F-9EF6-3F7FE048B4FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF2730F9-34C0-403F-9EF6-3F7FE048B4FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF2730F9-34C0-403F-9EF6-3F7FE048B4FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF2730F9-34C0-403F-9EF6-3F7FE048B4FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7409512-DBD6-47FD-A085-744B75F301B4}
+	EndGlobalSection
+EndGlobal
